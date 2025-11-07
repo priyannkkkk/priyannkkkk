@@ -74,47 +74,43 @@
 
 ---
 
-## 💡 Featured Projects  
+## 💡 Featured Projects
 
 <table align="center">
   <tr>
-
-    <!-- 🌿 TerraNova Project -->
     <td width="50%" align="center" style="vertical-align: top; padding: 20px;">
       <h4>🌿 <b>TerraNova</b></h4>
-      <img src="https://raw.githubusercontent.com/priyannkkkk/priyannkkkk/main/assets/terranova.png" alt="TerraNova preview" width="90%" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.1);"/>
+      <img src="https://raw.githubusercontent.com/priyannkkkk/priyannkkkk/main/assets/terranova.png" alt="TerraNova preview" width="90%" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.1);" />
       <p align="justify">
-        A data-driven web platform where users explore and build terrariums with real datasets. 
+        A data-driven web platform where users explore and build terrariums with real datasets.
         Combines web scraping, AJAX UI, and Flask for a seamless interactive experience.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-1f1f1f"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-1f1f1f" />
       </p>
       <a href="https://github.com/priyannkkkk/TerraNova" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Repository-0B93F6?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/View%20Repository-0B93F6?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
 
-    <!-- ✉️ Spam Detector Project -->
     <td width="50%" align="center" style="vertical-align: top; padding: 20px;">
       <h4>✉️ <b>Spam Detector</b></h4>
-      <img src="https://raw.githubusercontent.com/priyannkkkk/Spam_detector/main/img/image.png" alt="Spam Detector preview" width="90%" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.1);"/>
+      <img src="https://raw.githubusercontent.com/priyannkkkk/Spam_detector/main/img/image.png" alt="Spam Detector preview" width="90%" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.1);" />
       <p align="justify">
-        ML-powered web app that classifies messages as spam or ham using NLP and a clean, responsive UI. 
+        ML-powered web app that classifies messages as spam or ham using NLP and a clean, responsive UI.
         Built for education and real-world demonstration of supervised learning.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
       </p>
       <a href="https://github.com/priyannkkkk/Spam_detector" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Repository-0B93F6?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/View%20Repository-0B93F6?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-
   </tr>
 </table>
 
