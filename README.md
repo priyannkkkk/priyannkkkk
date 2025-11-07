@@ -94,7 +94,7 @@
 
     <td width="50%">
       <h4>✉️ Spam Detector</h4>
-      <img src="https://raw.githubusercontent.com/priyannkkkk/img/image.png" alt="Spam Detector preview"/>
+      <img src="https://raw.githubusercontent.com/priyannkkkk/Spam_detector/img/image.png" alt="Spam Detector preview"/>
       <p>ML-powered web app that classifies messages as spam or ham using NLP and a clean, responsive UI. Built for education and real-world demonstration of supervised learning.</p>
       <p>
         <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white"/>
