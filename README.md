@@ -4,7 +4,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/priyannkkkk/priyannkkkk/main/assets/banner.png" alt="Priyankkumar Pateliya Banner" />
+  <img src="profile-banner.png" alt="Priyankkumar Pateliya Banner" />
 </p>
 
 <!-- Typing intro -->
