@@ -80,7 +80,8 @@
   <tr>
     <td width="50%" align="center" style="vertical-align: top; padding: 20px;">
       <h4>🌿 <b>TerraNova</b></h4>
-      <img src="https://raw.githubusercontent.com/priyannkkkk/priyannkkkk/main/assets/terranova.png" alt="TerraNova preview" width="90%" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.1);" />
+      <img src="https://raw.githubusercontent.com/priyannkkkk/Terrarium_shop/static/img
+/Screenshot.png" alt="TerraNova preview" width="90%" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.1);" />
       <p align="justify">
         A data-driven web platform where users explore and build terrariums with real datasets.
         Combines web scraping, AJAX UI, and Flask for a seamless interactive experience.
