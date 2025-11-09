@@ -4,7 +4,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="profile-banner.png" alt="Priyankkumar Pateliya Banner" />
+  <img src="src/profile-banner.png" alt="Priyankkumar Pateliya Banner" />
 </p>
 
 <!-- Typing intro -->
