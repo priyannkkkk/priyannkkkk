@@ -146,7 +146,7 @@
 ---
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/priyannkkkk/priyannkkkk/main/assets/Priyankkumar_Pateliya_Resume.pdf">
+  <a href="src/PriyankPateliyaCV.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-3b82f6?style=for-the-badge" alt="Download Resume">
   </a>
 </p>
