@@ -41,7 +41,6 @@
         <img src="https://img.shields.io/badge/View%20Repository-0B93F6?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-
     <td width="50%" align="center" style="vertical-align: top; padding: 20px;">
       <h4>✉️ <b>Spam Detector</b></h4>
       <img src="https://raw.githubusercontent.com/priyannkkkk/Spam_detector/main/img/image.png" alt="Spam Detector preview" width="90%" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.1);" />
@@ -59,7 +58,6 @@
       </a>
     </td>
   </tr>
-
   <!-- New QA Automation Project -->
   <tr>
     <td colspan="2" align="center" style="vertical-align: top; padding: 20px;">
