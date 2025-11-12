@@ -62,7 +62,6 @@
   <tr>
     <td colspan="2" align="center" style="vertical-align: top; padding: 20px;">
       <h4>🤖 <b>QA Automation Project (Selenium + Python)</b></h4>
-      <img src="https://raw.githubusercontent.com/priyannkkkk/QA-Automation-Project/main/assets/preview.png" alt="QA Automation preview" width="70%" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.1);" />
       <p align="justify">
         A complete QA automation project demonstrating browser automation using Selenium WebDriver in Python.
         It automatically fills forms, handles alerts, simulates progress loading, and navigates web links.
